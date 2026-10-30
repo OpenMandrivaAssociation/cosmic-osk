@@ -8,6 +8,7 @@ License:        GPL-3.0-only
 URL:            https://github.com/pop-os/cosmic-osk
 Source0:        https://github.com/pop-os/cosmic-osk/archive/epoch-%{version}%{?beta:-%{beta}}/%{name}-epoch-%{version}%{?beta:-%{beta}}.tar.gz
 Source1:        vendor.tar.xz
+Source2:        cargo_config
 
 BuildRequires:  rust-packaging
 BuildRequires:  just
