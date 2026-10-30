@@ -1,3 +1,4 @@
+%undefine _debugsource_packages
 %define         appid com.system76.CosmicOSK
 Name:           cosmic-osk
 Version:        1.11.0
